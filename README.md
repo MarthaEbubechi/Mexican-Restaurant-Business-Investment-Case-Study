@@ -39,12 +39,12 @@ There are 4 dimension tables and 1 fact table. The dimension tables are all join
 
 ## Visualization:
 The report comprises 6 key insights:
-- 1:Highest rated restaurants by (Food, services  and overall ratings)
-- 2:Highest rated cuisine
-- 3:Consumer demographics
-- 4:Price range of restaurants
-- 5:Total orders by price
-- 6:Restaurant locations map by states and cities
+- 1: Highest rated restaurants by (Food, services  and overall ratings)
+- 2: Highest rated cuisine
+- 3: Consumer demographics
+- 4: Price range of restaurants
+- 5: Total orders by price
+- 6: Restaurant locations map by states and cities
 
 You can interact with the report here [https://app.powerbi.com/view?r=eyJrIjoiNjdmNjQzNjYtNDZhNC00Njg5LThmM2YtOTY4ZTlmYTE0ODFlIiwidCI6IjE4MTk3OTFkLTFhZjUtNDZiMC1iNDQ3LWFiYWMwMzVjZjQzYiJ9](https://app.powerbi.com/view?r=eyJrIjoiNjdmNjQzNjYtNDZhNC00Njg5LThmM2YtOTY4ZTlmYTE0ODFlIiwidCI6IjE4MTk3OTFkLTFhZjUtNDZiMC1iNDQ3LWFiYWMwMzVjZjQzYiJ9)
 ![](Dashboard..png)
