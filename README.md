@@ -10,11 +10,11 @@ would aid business entrepreneurs and investors in making more informed decisions
 **_Disclaimer_**: This dataset and report is for my final capstone project on my data analytics training to demonstrate my capabilities on power BI. 
 
 ## Problem statement:
-- Question1: What can you learn from the highest rated restaurants? Do consumer preferences have an effect on
+- Question 1: What can you learn from the highest rated restaurants? Do consumer preferences have an effect on
 ratings?
-- Question2: What are the consumer demographics? Does this indicate a bias in the data sample?
-- Question3: Are there any demand & supply gaps that you can exploit in the market?
-- Question4: If you were to invest in a restaurant, which characteristics would you be looking for?
+- Question 2: What are the consumer demographics? Does this indicate a bias in the data sample?
+- Question 3: Are there any demand & supply gaps that you can exploit in the market?
+- Question 4: If you were to invest in a restaurant, which characteristics would you be looking for?
 
 ## Skills/concept demonstrated:
 The following power Bi features were incorporated;
